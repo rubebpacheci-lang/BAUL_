@@ -1,0 +1,591 @@
+
+--- Slide 1 ---
+
+
+
+SISTEMA DE VIDEOVIGILANCIA — VÍA PÚBLICA
+Ojos del Manzano
+Comunidad Segura en la Cordillera
+Proyecto:
+97-271 — El Manzano
+Administrador:
+Hogla Díaz Toro
+Junta Vecinos:
+75.571.200-0
+Fecha:
+Abril 2026
+
+
+
+
+
+PHR Ingeniería SpA  ·  RUT 77.988.438-4
+
+--- Slide 2 ---
+
+
+DESCRIPCIÓN DEL PROYECTO
+N° 97-272
+2 / 11
+
+
+
+UBICACIÓN
+El Manzano
+(Vía Pública)
+
+
+
+CÁMARAS TOTALES
+16 unidades
+4 tecnologías
+
+
+
+COMUNICACIÓN
+Fibra óptica + PoE
+P2P remoto
+
+
+
+VALIDEZ OFERTA
+30 días hábiles
+
+
+OBJETIVO DEL PROYECTO
+Implementar un sistema de videovigilancia CCTV en vía pública que permita monitorear, registrar y disuadir actividades delictuales en los 4 puntos estratégicos definidos del sector &quot;El Manzano&quot;, mejorando la seguridad de los vecinos y entregando herramientas tecnológicas modernas a la junta de vecinos para la gestión de la seguridad.
+
+--- Slide 3 ---
+
+
+DISTRIBUCIÓN EN 4 PUNTOS DE INSTALACIÓN
+3 / 11
+
+
+01
+Punto A
+
+4
+ CÁMARAS
+Tipo
+1 
+PTZ + 2 Varifocal + Domo IP
+
+Configuración orientada a vigilancia activa y cobertura dinámica. PTZ permite monitoreo en tiempo real con giro, inclinación y zoom.
+
+
+02
+Punto B
+
+4 CÁMARAS
+Tipo
+2 Domo + 2 Varifocal
+
+Sistema balanceado con cobertura fija optimizada. Combina domo y varifocal para ajustar ángulos y distancias según el entorno.
+
+
+03
+Punto C
+
+2 CÁMARAS
+Tipo
+1 
+Domo + 1 Varifocal
+
+Diseñado para zonas de menor extensión con supervisión puntual de alta calidad. Domo aporta visualización completa del sector.
+
+
+04
+Punto D
+
+5 CÁMARAS
+Tipo
+1 
+PTZ + 2 Domo + 1 Varifocal + 1 ANPR
+
+Configuración robusta de alta cobertura. Incorpora PTZ con seguimiento inteligente y cámaras fijas para múltiples ángulos simultáneos. 
+Lector de Patentes Automatizado
+Cada punto incluye poste galvanizado, tablero eléctrico, switch PoE y caja de distribución independiente.
+
+--- Slide 4 ---
+
+
+PUNTOS DE INSTALACIÓN — LEVANTAMIENTO EN TERRENO
+4 / 11
+
+
+01
+Punto A
+Sector prioritario — detección de vehículos en ingreso a zonas residenciales.
+
+
+02
+Punto B
+Tramos medios y accesos principales — cobertura de concentración de personas.
+
+
+03
+Punto C
+Zonas críticas de control — supervisión combinada domo + varifocal.
+
+
+04
+Punto D
+Accesos y áreas de reunión — cobertura completa con redundancia de ángulos.
+Levantamiento fotográfico en terreno — Sector El Manzano.
+
+
+
+
+
+
+--- Slide 5 ---
+
+
+PUNTOS DE INSTALACIÓN — LEVANTAMIENTO EN TERRENO
+4 / 11
+
+
+01
+Punto A
+Sector prioritario — detección de vehículos en ingreso a zonas residenciales.
+
+
+02
+Punto B
+Tramos medios y accesos principales — cobertura de concentración de personas.
+
+
+03
+Punto C
+Zonas críticas de control — supervisión combinada domo + varifocal.
+
+
+04
+Punto D
+Accesos y áreas de reunión — cobertura completa con redundancia de ángulos.
+Levantamiento fotográfico en terreno — Sector El Manzano.
+
+
+
+
+
+--- Slide 6 ---
+
+
+TECNOLOGÍA DE CÁMARAS
+5 / 11
+
+
+
+2 unid.
+PTZ Principal
+Dahua SD49225DB-HNY
+
+2 MP Starlight — IR hasta 100 m   Zoom óptico 25x motorizado   IA integrada — seguimiento automático   IP66 / PoE / H.265 / SD card
+
+Vigilancia panorámica 360°. Seguimiento de objetivos en tiempo real y zoom remoto desde central de monitoreo.
+
+
+
+6
+ unid.
+Bullet Varifocal 4MP
+Dahua IPC-HFW1431T1N-ZS-S4
+
+4 MP — IR hasta 50 m   Lente varifocal 2.8–12 mm motorizado   WDR 120 dB — IP67 / H.265+   Apta para exteriores con luz adversa
+
+Calles y accesos vehiculares. Lente ajustable remotamente para optimizar encuadre sin intervención en terreno.
+
+
+
+6
+ unid.
+Domo IP 4MP
+Dahua IPC-HDBW2441EP-S
+
+4 MP — IR hasta 30 m   Lente fija 2.8 mm / campo amplio   IP67 + IK10 antivandalismo   H.265+ — diseño discreto
+
+Plazas y zonas abiertas. Resistente a golpes e intentos de manipulación. Baja visibilidad disuasiva.
+
+
+
+2 unid.
+Domo IP 2MP ECO
+Uniarch IPC-T132-AF28-DL-ECO
+
+2 MP ONVIF — lente fija 2.8 mm   IP67 — compatible con NVR central   H.265 — bajo consumo energético   Protocolo abierto
+
+Zonas complementarias de menor tráfico. Integración total con la red IP del sistema sin hardware adicional. (sede)
+
+--- Slide 7 ---
+
+
+TECNOLOGÍA DE CÁMARAS
+5 / 11
+
+
+
+1 unid.
+ANPR (LECTOR DE PATENTES)4MP
+ITC413-PW4D-IZ3
+
+Cámara 4 MP (2688×1520)
+
+Integra IA (deep learning) para identificar patentes, tipo, marca y color del vehículo.
+Lente varifocal motorizado (2.7–12 mm) para ajustar el campo visual según instalación.
+Lectura confiable de placas en vehículos hasta 
+~80 km/h
+ (versión IZ1). 
+Incorpora 
+iluminación IR/LED
+ y operación día/noche (0 lux con iluminador).
+Permite integración directa con 
+barreras, portones y sistemas de acceso
+ mediante I/O y Wiegand.
+Diseño robusto 
+IP67 / IK10
+, apto para exterior.
+5 unid.
+
+--- Slide 8 ---
+
+
+CAPACIDADES DEL SISTEMA — NVR E INTELIGENCIA ARTIFICIAL
+6 / 11
+
+
+GRABADOR DE RED — NVR4216-EI
+Dahua Technology — 16 Canales / H.265+
+
+
+Canales de grabación
+16 canales simultáneos
+
+Resolución máx. entrada
+8 MP (4K) por canal
+
+Almacenamiento
+2 bahías HDD — hasta 16 TB
+
+Compresión
+H.265+ / H.265 / H.264+
+
+Velocidad grabación
+256 Mbps entrada total
+
+Interfaz local
+HDMI 4K + VGA — salida dual
+
+Acceso remoto
+P2P / app móvil / web
+
+Protocolos
+ONVIF / RTSP / TCP-IP
+
+Alimentación
+DC 52V PoE / 100-240 V AC
+
+
+INTELIGENCIA ARTIFICIAL — FUNCIONES ACTIVAS
+IA embebida en cámaras PTZ Dahua y en NVR central
+
+
+
+Detección de personas y vehículos
+Clasificación automática de objetivos en tiempo real. Filtra falsas alarmas por animales o vegetación.
+
+
+Seguimiento automático (Auto-tracking)
+La cámara PTZ sigue el objetivo en movimiento de forma autónoma sin intervención del operador.
+
+
+Detección de intrusión y perímetro
+Alerta al cruzar líneas virtuales o acceder a zonas restringidas configuradas en el sistema.
+
+
+Detección de merodeo
+Identifica personas que permanecen estáticas en un área por tiempo superior al umbral definido.
+
+
+Detección de aglomeraciones
+Alerta ante concentración de personas superior al parámetro configurado. Útil en accesos.
+
+
+Análisis facial básico
+Detección y captura de rostros para registro en base de datos local del NVR.
+
+
+Reconocimiento de placas (LPR)
+Lectura automática de patentes de vehículos con cámara PTZ en puntos de acceso.
+
+
+Alertas y notificaciones remotas
+Push a app móvil, correo electrónico y alarma sonora al detectar evento configurado.
+
+--- Slide 9 ---
+
+
+ARQUITECTURA DE COMUNICACIÓN Y RED
+7 / 11
+
+
+NVR CENTRAL
+Switch Principal
+Rack 6U
+
+PUNTO A
+Switch PoE / Conversor Fibra
+Empalme eléctrico
+
+PUNTO B
+Switch PoE / Conversor Fibra
+Empalme eléctrico
+
+PUNTO C
+Switch PoE / Conversor Fibra
+Empalme eléctrico
+
+PUNTO D
+Switch PoE / Conversor Fibra
+Empalme eléctrico
+Fibra
+Óptica
+Fibra
+Óptica
+Fibra
+Óptica
+Fibra
+Óptica
+
+
+Fibra Óptica Monomodo 6F
+800 m aprox. / Conversor SC→RJ45 en cada punto
+Alto ancho de banda — inmune a interferencia EM
+
+
+Power over Ethernet (PoE)
+Switches PoE en cada punto de instalación
+Alimenta cámaras sin cableado eléctrico adicional
+
+
+Red IP H.265 / ONVIF / P2P
+Protocolo abierto — acceso remoto vía app móvil
+Compatible con software VMS de monitoreo
+
+--- Slide 10 ---
+
+
+COBERTURA Y CAPACIDADES DEL SISTEMA
+8 / 11
+
+
+16
+Cámaras
+Instaladas
+
+
+100m
+Alcance IR
+Cámara PTZ
+
+
+25x
+Zoom Óptico
+PTZ
+
+
+4MP
+Resolución
+Máxima
+
+
+16CH
+Grabación
+Simultánea NVR
+
+Modelo
+Tipo
+Resolución
+Alcance IR
+Cobertura y características
+
+PTZ Dahua SD49225DB-HNY
+PTZ
+2 MP
+100 m
+Cobertura 360° continua. Seguimiento automático con IA. Zoom 25x para identificación a larga distancia.
+
+Dahua IPC-HFW1431T1N-ZS-S4
+Bullet varifocal
+4 MP
+50 m
+Calles largas y accesos vehiculares. Lente 2.8–12 mm ajustable. WDR 120 dB para alto contraste.
+
+Dahua IPC-HDBW2441EP-S
+Domo IP
+4 MP
+30 m
+Zonas abiertas y plazas. IK10 antivandalismo. Campo angular amplio, visión diurna y nocturna.
+
+Uniarch IPC-T132-AF28-DL-ECO
+Domo ECO
+2 MP
+25 m
+Zonas complementarias. ONVIF — integración nativa con NVR. Bajo consumo operacional.
+
+--- Slide 11 ---
+
+
+EQUIPAMIENTO COMPLEMENTARIO
+9 / 11
+
+
+
+01
+NVR 16CH — NVR4216-EI
+Grabador de red 16 canales, H.265+. Gestión centralizada con IA embebida.
+
+
+
+02
+Switches PoE — DH-CS4006-4ET-60 (x4)
+1 por punto. Alimenta cámaras vía red IP. PoE 60 W por puerto.
+
+
+
+03
+Switch Central — Tenda TEG1110PF
+10 puertos, 8 PoE + 1 SFP. Agrega todos los puntos hacia el NVR.
+
+
+
+04
+UPS de Respaldo (x4)
+1 por punto. Mantiene sistema operativo ante cortes eléctricos.
+
+
+
+05
+Disco Duro 4TB Surveillance (x2)
+8 TB total. Estimación 30 días de grabación continua.
+
+
+
+06
+Rack 6U + Monitor 24&quot;
+Central de monitoreo. Visualización y gestión en sala de control.
+
+
+
+07
+Postes Galvanizados 9–10 m (x4)
+Soporte de cámaras en vía pública. Incluye fundación de hormigón.
+
+
+
+08
+Conversores Fibra SC→RJ45 (x7)
+Enlace fibra–switch local. Garantiza largo alcance sin degradación.
+
+--- Slide 12 ---
+
+
+PRESUPUESTO — COTIZACIÓN PHR INGENIERÍA SpA
+N° Proyecto 97-271  ·  El Manzano
+10 / 11
+
+CÁMARAS Y EQUIPOS ÓPTICOS
+
+PTZ Dahua SD49225DB-HNY  ×2
+$642.857
+
+Bullet Varifocal 4MP  ×6
+$588.131
+
+Domo IP 4MP  ×5
+$326.500
+
+Domo ECO 2MP  ×2
+$36.975
+
+INFRAESTRUCTURA Y COMUNICACIÓN
+
+Postes galvanizados + fundación
+$454.200
+
+Fibra óptica + apostación
+$881.724
+
+Conversores fibra óptica ×7
+$69.734
+
+Switches PoE ×4 + Switch central
+$250.096
+
+CENTRAL DE GRABACIÓN Y MONITOREO
+
+NVR 16CH
+$139.979
+
+Rack 6U + Monitor 24&quot;
+$144.861
+
+Disco duro 4TB ×2
+$190.638
+
+UPS respaldo ×4
+$150.168
+
+ELÉCTRICO + MANO DE OBRA + CAPACITACIÓN
+
+Tableros eléctricos + componentes
+$635.498
+
+Mano de obra y utilidad
+$5.987.000
+
+Otros materiales
+$123.861
+
+TOTAL NETO:
+$10.998.767   +   IVA 19%: $2.700.199   →   TOTAL c/IVA:  $14.211.571
+
+--- Slide 13 ---
+
+
+
+
+RESUMEN EJECUTIVO
+Sistema CCTV listo para
+despliegue en vía pública
+
+
+16 cámaras en 4 puntos — PTZ, varifocal y domo IP
+
+IA embebida: seguimiento, intrusión, LPR y alertas remotas
+
+Comunicación por fibra óptica monomodo — 800 m aprox.
+
+Grabación 16 canales / 8 TB / estimación 20–30 días
+
+UPS por punto — continuidad ante cortes eléctricos
+
+Acceso remoto P2P vía app móvil y plataforma web
+
+Capacitación incluida para operadores del sistema
+
+TOTAL CON IVA
+
+$14.211.571
+
+Neto
+$11.511.373
+IVA 19%
+$2.700.199
+N° Proyecto
+97-271
+Validez
+30 días hábiles
+PHR Ingeniería SpA  ·  RUT 77.988.438-4
+Sector El Manzano  ·  N° Proyecto 97-271  ·  Junta de Vecinos 75.571.200-0
